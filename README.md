@@ -25,7 +25,7 @@ Marvel Characters App is a captivating mobile application that allows users to e
 
 To get started with the Marvel Characters App, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/MarvelCharactersApp.git`
+1. Clone the repository: `git clone https://github.com/JohnnyFa/Peronagens-da-marvel.git`
 2. Open the project in Android Studio.
 3. Customize the user interface, ensuring an appealing and intuitive layout.
 4. Implement the logic to fetch character data from the Marvel API and populate the character list with relevant details.
